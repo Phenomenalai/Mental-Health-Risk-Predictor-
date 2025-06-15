@@ -5,6 +5,7 @@ This project performs exploratory data analysis on a publicly available student 
 ## Data Source
   Student Mental Health Survey (Bangladesh): The primary dataset used for this analysis is the 
 
+[data.csv](https://github.com/user-attachments/files/20747328/data.csv)
 
 
 ## 🔍 Project Objective
