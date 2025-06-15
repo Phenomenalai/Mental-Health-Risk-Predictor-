@@ -1,0 +1,49 @@
+# Student Mental Health Survey (Bangladesh) – Exploratory Analysis
+
+This project performs exploratory data analysis on a publicly available student mental health survey dataset from Bangladesh. The dataset contains standardized mental health metrics including the **PHQ-9 (depression)**, **BDI-II**, and the **UCLA Loneliness Scale**, along with demographic and contextual variables like academic stress and sleep quality.
+
+## 🔍 Project Objective
+
+The goal of this project is to explore relationships between mental health scores and lifestyle or psychosocial variables such as loneliness, sleep patterns, and academic stress. This analysis helps to visually identify trends and potential risk factors in student mental health.
+
+## 📊 Dataset Description
+
+- 📁 Source: Student Mental Health Survey – Bangladesh
+- 🧠 Measures:
+  - PHQ-9 (Depression)
+  - UCLA Loneliness Scale
+  - BDI-II (Beck Depression Inventory)
+- 🌐 Contextual Variables:
+  - Sleep Quality
+  - Academic Stress
+  - Social Isolation
+
+## 📈 Key Visualizations
+
+- PHQ-9 vs UCLA Loneliness Score (stratified by academic stress and sleep quality)
+- Correlation matrix of mental health scales
+- Distribution of depression severity
+
+## 🛠 Requirements
+
+Install required packages with:
+
+```bash
+pip install pandas matplotlib seaborn
+```
+
+## ▶️ How to Run
+
+```bash
+python main.py
+```
+
+## 📌 Future Work
+
+- Implement machine learning models to classify high-risk individuals
+- Use PCA or clustering for latent variable exploration
+- Build an interactive dashboard using Streamlit
+
+## 📚 License
+
+This project is open for learning and academic purposes. Attribution to the original dataset source is maintained.
