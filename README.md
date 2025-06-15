@@ -24,6 +24,10 @@ The goal of this project is to explore relationships between mental health score
 - Correlation matrix of mental health scales
 - Distribution of depression severity
 
+![1750016839269](https://github.com/user-attachments/assets/ff9e107d-561a-4e2b-bdda-66783b6da923)
+
+  
+
 ## 🛠 Requirements
 
 Install required packages with:
