@@ -1,4 +1,4 @@
-[data.csv](https://github.com/user-attachments/files/20747315/data.csv)[data.csv](https://github.com/user-attachments/files/20747307/data.csv)# Student Mental Health Survey (Bangladesh) – Exploratory Analysis
+Student Mental Health Survey (Bangladesh) – Exploratory Analysis
 
 This project performs exploratory data analysis on a publicly available student mental health survey dataset from Bangladesh. The dataset contains standardized mental health metrics including the **PHQ-9 (depression)**, **BDI-II**, and the **UCLA Loneliness Scale**, along with demographic and contextual variables like academic stress and sleep quality.
 
